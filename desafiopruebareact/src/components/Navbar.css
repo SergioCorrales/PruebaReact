@@ -1,0 +1,13 @@
+
+nav{
+    background-image: linear-gradient(10deg, #ffc0a9 0, #ffb5a6 16.67%, #ffa9a2 33.33%, #f29d9d 50%, #de9297 66.67%, #cc8891 83.33%, #bb7f8b 100%);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: .5rem 0;
+    box-shadow: 4px 4px 8px #00000020;
+}
+nav > svg {
+    height: 3rem;
+    width: auto;
+}

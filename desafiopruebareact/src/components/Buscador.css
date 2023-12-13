@@ -1,0 +1,24 @@
+.titulo {
+    font-size: 36px;
+    font-weight: 400;
+    color: #000;
+    text-align: center;
+    margin:  2rem 0 1rem 0;
+}
+.container-buscador {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    padding: 5px 0;
+}
+.input-buscar {
+    background-color: aliceblue;
+    border: 2px solid;
+    padding: 2px;
+    border-radius: 10px;
+}
+.btn-buscar {
+    cursor: pointer;
+    background-image: radial-gradient(circle at 50% 50%, #ffff56 0, #fff84e 12.5%, #ffe347 25%, #ffcc41 37.5%, #f2b53c 50%, #e29f38 62.5%, #d48b36 75%, #c67934 87.5%, #ba6b33 100%);
+}
